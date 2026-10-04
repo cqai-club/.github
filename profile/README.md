@@ -70,7 +70,6 @@
 | **[CQAI Account Service](https://github.com/cqai-club/cqai-account-service)** | 在 Logto 与 Relay / New API 之间桥接身份、账号与额度，提供服务端 AI 请求代理和客户端 SDK。 | [架构与接入](https://github.com/cqai-club/cqai-account-service#readme) |
 | **[CQAI Logto](https://github.com/cqai-club/cqai-logto)** | 基于 Logto 的统一身份认证，为应用提供登录与身份管理基础。 | [项目仓库](https://github.com/cqai-club/cqai-logto) |
 | **[LLM Metadata](https://github.com/cqai-club/llm-metadata)** | 整理模型元数据和价格信息，便于应用发现、查询与集成模型。 | [中文文档](https://github.com/cqai-club/llm-metadata/blob/main/README.zh-CN.md) |
-| **[矩媒 · MatrixMedia](https://github.com/cqai-club/MatrixMedia)** | 探索多平台内容发布与矩阵分发，通过桌面界面、CLI 和 API 连接自动化工作流。 | [使用与接入](https://github.com/cqai-club/MatrixMedia#readme) |
 
 <details>
 <summary><strong>了解身份、账号与 AI 网关如何协作</strong></summary>
