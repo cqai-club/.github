@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">CQAI · 重庆 AI 创享俱乐部</title>
+  <desc id="desc">深蓝色横幅，青绿色山城轮廓与江河线条，主题为在重庆，做 AI。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1628"/><stop offset="1" stop-color="#112D3B"/>
+    </linearGradient>
+    <linearGradient id="river" x1="625" y1="275" x2="1180" y2="335" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4BE3C2" stop-opacity="0"/><stop offset="0.4" stop-color="#4BE3C2" stop-opacity="0.7"/><stop offset="1" stop-color="#6CCBFF" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1000 150) rotate(90) scale(235 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BCA6" stop-opacity="0.15"/><stop offset="1" stop-color="#38BCA6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#B6F3EF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#glow)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="58" y="48" width="5" height="18" rx="2.5" fill="#53E0C5"/>
+    <text x="77" y="62" font-size="14" font-weight="600" letter-spacing="3" fill="#B6D8DF">CHONGQING AI INNOVATION CLUB</text>
+    <text x="56" y="165" font-size="88" font-weight="750" letter-spacing="-3" fill="#F4FAFC">CQAI<tspan fill="#53E0C5">.</tspan></text>
+    <text x="61" y="222" font-size="38" font-weight="600" letter-spacing="1" fill="#F4FAFC">在重庆，做 AI。</text>
+    <text x="62" y="267" font-size="20" letter-spacing="2" fill="#B6D8DF">连接产业、学术与资本</text>
+    <text x="62" y="316" font-size="12" font-weight="600" letter-spacing="3" fill="#75B8BD">LEARN / BUILD / CREATE TOGETHER</text>
+  </g>
+  <g stroke="#84CACB" stroke-opacity="0.17" stroke-width="1.5">
+    <path d="M660 263L750 168L810 221L904 124L1007 210L1115 115L1170 165"/>
+    <path d="M677 280L756 220L842 263L970 175L1075 250L1190 181"/>
+  </g>
+  <g fill="#153B49" stroke="#62C9BF" stroke-opacity="0.38" stroke-width="1.5">
+    <path d="M756 266V223H782V197H805V266Z"/>
+    <path d="M821 266V154H844V146H863V266Z"/>
+    <path d="M879 266V127L898 118L917 127V266Z"/>
+    <path d="M930 266V96L946 83L962 96V266Z"/>
+    <path d="M978 266V116L996 104L1014 116V266Z"/>
+    <path d="M1031 266V167H1059V266Z"/>
+    <path d="M1074 266V206H1097V189H1120V266Z"/>
+    <path d="M868 163H1025V181H868Z" fill="#21505A"/>
+  </g>
+  <g stroke="#53E0C5" stroke-opacity="0.55" stroke-width="2">
+    <path d="M712 266H1170"/>
+    <path d="M1125 263V225M1173 263V225M1110 252H1190M1125 233Q1149 259 1173 233"/>
+  </g>
+  <g stroke="url(#river)" stroke-width="2">
+    <path d="M641 292C760 274 815 319 930 298S1080 275 1191 300"/>
+    <path d="M706 310C810 297 870 341 976 317S1100 307 1190 323"/>
+    <path d="M783 329C877 316 950 351 1068 332S1160 336 1193 337"/>
+  </g>
+  <g stroke="#7CDAD0" stroke-opacity="0.38" stroke-width="1.5">
+    <path d="M724 103L800 83L852 105M1010 65L1085 95L1137 70"/>
+    <circle cx="724" cy="103" r="4" fill="#53E0C5"/>
+    <circle cx="800" cy="83" r="5" fill="#53E0C5"/>
+    <circle cx="852" cy="105" r="3" fill="#53E0C5"/>
+    <circle cx="1010" cy="65" r="3" fill="#53E0C5"/>
+    <circle cx="1085" cy="95" r="5" fill="#53E0C5"/>
+    <circle cx="1137" cy="70" r="3" fill="#53E0C5"/>
+  </g>
+</svg>
